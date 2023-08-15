@@ -8,4 +8,4 @@
 * MangaClusteringR.ipynb: 漫画に書かれた顔形状データの主成分分析とクラスタ分析（R）  
 * RGBtoLab.ipynb: 画像のRGBチャネルおよびCIE Labチャネルの可視化（Python）    
 * RegressionMethods.ipynb: 線形回帰，LOESS，ガウス過程回帰の比較（Python）  
-* ThurstonePairedComparison.ipynb: サーストンの一対比較法（R）   
+* PairedComparison.ipynb: ThurstoneとScheffeの一対比較法（R）   
